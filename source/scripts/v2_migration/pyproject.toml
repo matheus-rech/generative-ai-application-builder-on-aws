@@ -23,7 +23,7 @@ moto = "5.0.28"
 pytest = "8.3.4"
 pytest-cov = "6.0.0"
 pytest-env = "1.1.5"
-requests="2.32.4"
+requests="2.33.0"
 urllib3="2.6.3"
 
 [tool.black]
